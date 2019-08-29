@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LoanCalculator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="loan_amount_prompt">Loan amount:&#160;&#160;</string>
+    <string name="interest_rate_prompt">Interest rate:&#160;&#160;</string>
+    <string name="loan_period_prompt">Years:&#160;&#160;</string>
+    <string name="loan_button_text">Calculate Payments</string>
+    <string name="monthly_payment_prompt">Monthly payment:&#160;&#160;</string>
+    <string name="total_payments_prompt">Total payment:&#160;&#160;</string>
+    <string name="Loan_Period_Prompt2">Years:</string>
+    <string name="Loan_Period_Prompt3">Months:</string>
+    <string name="enter_desired_loan_period">Enter Desired Loan Period</string>
+    <string name="enter_rate_percentage">Enter Rate Percentage</string>
+    <string name="enter_desired_loan_amount">Enter Desired Loan Amount</string>
+</resources>
